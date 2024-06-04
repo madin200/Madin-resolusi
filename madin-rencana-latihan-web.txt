@@ -1,0 +1,4 @@
+RENCANA LATIHAN WEB MADIN KEDEPANNYA
+- Buat web responsive
+- buat webapps
+- buat vids tutorial
