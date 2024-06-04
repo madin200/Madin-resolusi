@@ -3,5 +3,6 @@ RENCANA LATIHAN WEB MADIN KEDEPANNYA
   * belajar membuat web responsive di beberapa device yang populer seperti di hp tablet dan dekstop
   * setiap device yang mengakses web harus bisa memuat halaman dengan mudah
   * lakukan optimasi di tiap tiap fitur web
+- struktur data dasar
 - buat webapps
 - buat vids tutorial
